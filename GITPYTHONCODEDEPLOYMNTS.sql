@@ -8,7 +8,7 @@ RETURNS variant
 LANGUAGE python 
 VOLATILE 
 runtime_version = '3.8' 
-packages = ('faker',,'simplejson')                                                                                                                                                                'simplejson')
+packages = ('faker','simplejson')                                                                                                                                                                'simplejson')
 HANDLER = 'fake' 
 AS 
 $$
